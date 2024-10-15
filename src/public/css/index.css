@@ -22,6 +22,12 @@
     padding: 7px 7px 7px 5%;
 }
 
+.create__error{
+    background-color: #ff9999;
+    padding: 7px 7px 7px 5%;
+}
+
+
 /* -------------------------------------------------- */
 
 .create{
